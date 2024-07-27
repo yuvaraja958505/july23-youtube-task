@@ -349,7 +349,7 @@ form h2 {
         width: 100%;
         right: 0;
         margin-top: 7px;
-        margin-left: 280px;
+        margin-left: 160px;
      }
      .nav ul li{
         display: block;
@@ -364,7 +364,7 @@ form h2 {
      .header > .nav,img{
         height: 30px;
         width: 50px;
-        margin-left: 30px;
+        margin-left: 10px;
     
     }
     .content1{
